@@ -1,2 +1,8 @@
 github.com/go-chi/chi v1.5.5 h1:vOB/HbEMt9QqBqErz07QehcOKHaWFtuj87tTDVz2qXE=
 github.com/go-chi/chi v1.5.5/go.mod h1:C9JqLr3tIYjDOZpzn+BCuxY8z8vmca43EeMgyZt7irw=
+github.com/tyler-mcintyre/go_client v0.0.0-20240308150007-11cb3c85787d h1:acO/u6IBTiZwAFFt5YVzddu3Bv/FgiBLTjfBAcskcHc=
+github.com/tyler-mcintyre/go_client v0.0.0-20240308150007-11cb3c85787d/go.mod h1:CORqaP19ADAEVC/gE5NLgQL9XrGxGfvy0qoZN0xdfy0=
+github.com/tyler-mcintyre/go_router v0.0.0-20240308161359-ce0a06e79418 h1:MfGn6B3RW8G/kuCN6rlqOxG/H+52g3yhoU78lO5MDrg=
+github.com/tyler-mcintyre/go_router v0.0.0-20240308161359-ce0a06e79418/go.mod h1:lUEpjs3ZdRD2VE/9mK7r1XQEm+OypUlayXYaFX4zgZo=
+github.com/tyler-mcintyre/go_service_layer v0.0.0-20240308153919-d0dbc9859c7c h1:MGHs+CELOqvJXr/ZulkY2KvSumYamYFtHThosE/RcWE=
+github.com/tyler-mcintyre/go_service_layer v0.0.0-20240308153919-d0dbc9859c7c/go.mod h1:2VJe7DWYEGsU5065GFh50tXdy+ZFij/vLOnJZTNXr0g=
